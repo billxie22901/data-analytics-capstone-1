@@ -1,6 +1,9 @@
 # data-analytics-capstone-1
 Google Career Certificate Data Analytics for data analyst program capstone
 
+### Statement of work for this project
+[Cyclistic State of Work](https://docs.google.com/document/d/18orElKsTWFwE57iLtFOdWY3-CuGknbNC9XWJMTw3wl4/edit?usp=sharing)
+
 ### This repository contains:
 - The original Jupyter Notebook files.
 - The R script generated from Jupyter Notebook.
@@ -19,3 +22,6 @@ Google Career Certificate Data Analytics for data analyst program capstone
 - [Average Trip Duration](https://public.tableau.com/views/AverageTripDuration_17056268214380/AverageTripDuration?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Total Trip Duration](https://public.tableau.com/views/TotalTripDuration/TotalTripDuration?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Total Number of Rides](https://public.tableau.com/views/TotalTrips_17056271362000/TotalTrips?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+### Final Report
+[Cyclistic Final Report](https://docs.google.com/document/d/16szoAa1ejzFxXAgxU4nxZG_fnLilnpngxPQCJUZRfhg/edit?usp=sharing)
