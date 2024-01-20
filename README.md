@@ -25,3 +25,6 @@ Google Career Certificate Data Analytics for data analyst program capstone
 
 ### Final Report
 [Cyclistic Final Report](https://docs.google.com/document/d/16szoAa1ejzFxXAgxU4nxZG_fnLilnpngxPQCJUZRfhg/edit?usp=sharing)
+
+### Improvements
+Improvements needed for this repository can be found under the "Issues" tab.
